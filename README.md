@@ -1,6 +1,6 @@
 # OpenLedger: Open-Source Personal Finance Tracker
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![GitHub stars](https://img.shields.io/github/stars/yourusername/openledger?style=social)](https://github.com/LiuCong2017/openledger)[![GitHub issues](https://img.shields.io/github/issues/LiuCong2017/openledger)](https://github.com/yourusername/openledger/issues)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![GitHub stars](https://img.shields.io/github/stars/LiuCong2017/openledger?style=social)](https://github.com/LiuCong2017/openledger)[![GitHub issues](https://img.shields.io/github/issues/LiuCong2017/openledger)](https://github.com/LiuCong2017/openledger/issues)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 OpenLedger is a free, open-source personal finance tracking application designed to help users manage their income, expenses, budgets, and financial reports effortlessly. Inspired by popular budgeting apps, it provides a simple, intuitive interface for recording transactions, categorizing expenses, setting budgets, and visualizing financial data through charts and summaries.
 
@@ -100,7 +100,7 @@ OpenLedger follows a client-side architecture with optional backend for sync, em
 
 Architecture Diagram (Conceptual):
 
-![diagram](https://github.com/LiuCong2017/openledger/assets/diagram.png)
+![diagram](https://github.com/LiuCong2017/openledger/blob/main/assets/diagram.png)
 
 ### Technology Stack
 
